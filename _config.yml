@@ -9,5 +9,3 @@ url:              http://gebinabi.github.io
 baseurl:          /
 
 paginate:         5
-
-remote_theme : poole/hyde
