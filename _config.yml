@@ -4,15 +4,10 @@ highlighter:      pygments
 
 # Setup
 title:            gebinabi
-description:      'page of gebinabi'
+description:      ''
 url:              http://gebinabi.github.io
 baseurl:          /
 
 paginate:         5
 
-# Custom vars
-
 remote_theme : poole/hyde
-
-author_github:
-  repo:           https://github.com/poole/hyde
